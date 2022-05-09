@@ -3,7 +3,7 @@
 
 ## 字型改作來源：
 1.  全字庫楷書、宋體 https://data.gov.tw/dataset/5961
-2.  I點顏真卿楷書
+2.  I.顏真卿楷書
 3.  Justfont粉圓體 https://justfont.com/huninn/
 4.  台北黑體 https://sites.google.com/view/jtfoundry/zh-tw
 
@@ -11,5 +11,6 @@
 
 # 使用說明
 
-1.  此字型不需要自行再造字及新增輸入法
-2.  文章直接輸入「母」親的母字，再變換相應字型即可。
+1.  此字型不需要自行再造字及新增輸入法，造成文章在傳遞過程遺漏空白或錯字。
+2.  只需下載 https://github.com/jungyu/Mu-Chinese-TC-Font/archive/refs/heads/main.zip ，解壓縮後，滑鼠連點2下你要安裝的 字型 ttf 檔，即可安裝好字型。
+3.  文章直接輸入「母」親的母字，再變換相應字型即可，字型名稱的第一個字皆為母字，方便索引選取。
