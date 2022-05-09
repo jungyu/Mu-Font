@@ -3,9 +3,8 @@
 
 ## 字型改作來源：
 1.  全字庫楷書、宋體 https://data.gov.tw/dataset/5961
-2.  I.顏真卿楷書
-3.  Justfont粉圓體 https://justfont.com/huninn/
-4.  台北黑體 https://sites.google.com/view/jtfoundry/zh-tw
+2.  Justfont粉圓體 https://justfont.com/huninn/
+3.  台北黑體 https://sites.google.com/view/jtfoundry/zh-tw
 
 上述皆為開源字型，視大眾需求再陸續新增刪除。
 
