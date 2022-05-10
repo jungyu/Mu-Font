@@ -1,0 +1,291 @@
+SplineFontDB: 3.2
+FontName: Mu-Iansui-Regular
+FullName: Mu-Iansui 0.92 Regular
+FamilyName: Mu-Iansui 0.92
+Weight: Regular
+Copyright: But Ko / The Klee Project (https://github.com/ButTaiwan/iansui)
+Version: 0.920
+ItalicAngle: 0
+UnderlinePosition: -128
+UnderlineWidth: 51.2
+Ascent: 901
+Descent: 123
+InvalidEm: 0
+sfntRevision: 0x0000eb85
+LayerCount: 2
+Layer: 0 1 "+gMxmbwAA" 1
+Layer: 1 1 "+Uk1mbwAA" 0
+HasVMetrics: 1
+XUID: [1021 423 1460472754 5670477]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1642828598
+ModificationTime: 1652173726
+PfmFamily: 81
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 0 0 0 0 0 0 0 0
+OS2TypoAscent: 901
+OS2TypoAOffset: 0
+OS2TypoDescent: -123
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1024
+OS2WinAOffset: 0
+OS2WinDescent: 246
+OS2WinDOffset: 0
+HheadAscent: 1024
+HheadAOffset: 0
+HheadDescent: -246
+HheadDOffset: 0
+OS2SubXSize: 666
+OS2SubYSize: 614
+OS2SubXOff: 0
+OS2SubYOff: 77
+OS2SupXSize: 666
+OS2SupYSize: 614
+OS2SupXOff: 0
+OS2SupYOff: 358
+OS2StrikeYSize: 51
+OS2StrikeYPos: 241
+OS2CapHeight: 712
+OS2XHeight: 479
+OS2Vendor: 'zihi'
+OS2CodePages: 00100001.00000000
+OS2UnicodeRanges: e00002ff.6acffcff.00000052.00000000
+Lookup: 1 0 0 "'aalt' +W1hT1mJAZwlT5pgFkHhkxwAA +Z+VifgAA 0" { "'aalt' +W1hT1mJAZwlT5pgFkHhkxwAA +Z+VifgAA 0 +W1CIaGg8"  } ['aalt' ('DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' +W1hT1mJAZwlT5pgFkHhkxwAA +Z+VifgAA 1" { "'aalt' +W1hT1mJAZwlT5pgFkHhkxwAA +Z+VifgAA 1 +W1CIaGg8"  } ['aalt' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'afrc' +V4J29FIGZXgA +Z+VifgAA 2" { "'afrc' +V4J29FIGZXgA +Z+VifgAA 2 +W1CIaGg8"  } ['afrc' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' +W1dXFn1EVAgA-/+UgaJ4wAA +Z+VifgAA 3" { "'ccmp' +W1dXFn1EVAgA-/+UgaJ4wAA +Z+VifgAA 3 +W1CIaGg8"  } ['ccmp' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' +TvthD5AjmtRbVwAA +Z+VifgAA 4" { "'dlig' +TvthD5AjmtRbVwAA +Z+VifgAA 4 +W1CIaGg8"  } ['dlig' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'dnom' +UgZrzQAA +Z+VifgAA 5" { "'dnom' +UgZrzQAA +Z+VifgAA 5 +W1CIaGg8"  } ['dnom' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'frac' +XA2J0lIGZXgA +Z+VifgAA 6" { "'frac' +XA2J0lIGZXgA +Z+VifgAA 6 +W1CIaGg8"  } ['frac' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'fwid' +UWhfYgAA +Z+VifgAA 7" { "'fwid' +UWhfYgAA +Z+VifgAA 7 +W1CIaGg8" ("full") } ['fwid' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'hkna' +bDRec1BHVA1T5pgFkHhkxwAA +Z+VifgAA 8" { "'hkna' +bDRec1BHVA1T5pgFkHhkxwAA +Z+VifgAA 8 +W1CIaGg8"  } ['hkna' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'hwid' +U0pb7AAA +Z+VifgAA 9" { "'hwid' +U0pb7AAA +Z+VifgAA 9 +W1CIaGg8" ("hw") } ['hwid' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ital' +ZZya1AAA +Z+VifgAA 10" { "'ital' +ZZya1AAA +Z+VifgAA 10 +W1CIaGg8"  } ['ital' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' +ahlulpAjmtRbVwAA +Z+VifgAA 11" { "'liga' +ahlulpAjmtRbVwAA +Z+VifgAA 11 +W1CIaGg8"  } ['liga' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'nalt' +U+aYBZB4ZMeWRIo7X2JfDwAA +Z+VifgAA 12" { "'nalt' +U+aYBZB4ZMeWRIo7X2JfDwAA +Z+VifgAA 12 +W1CIaGg8"  } ['nalt' ('DFLT' <'dflt' > ) ]
+Lookup: 3 0 0 "'nalt' +U+aYBZB4ZMeWRIo7X2JfDwAA +Z+VifgAA 13" { "'nalt' +U+aYBZB4ZMeWRIo7X2JfDwAA +Z+VifgAA 13 +W1CIaGg8"  } ['nalt' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'numr' +UgZbUAAA +Z+VifgAA 14" { "'numr' +UgZbUAAA +Z+VifgAA 14 +W1CIaGg8"  } ['numr' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'pwid' +a9RPi1vsXqYA +Z+VifgAA 15" { "'pwid' +a9RPi1vsXqYA +Z+VifgAA 15 +W1CIaGg8"  } ['pwid' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'qwid' +VttSBk5LTgBb7F6m +Z+VifgAA 16" { "'qwid' +VttSBk5LTgBb7F6m +Z+VifgAA 16 +W1CIaGg8"  } ['qwid' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'ruby' +bOiX83smhl9fYl8P +Z+VifgAA 17" { "'ruby' +bOiX83smhl9fYl8P +Z+VifgAA 17 +W1CIaGg8"  } ['ruby' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' +edFbeIoYhl8A +Z+VifgAA 18" { "'sinf' +edFbeIoYhl8A +Z+VifgAA 18 +W1CIaGg8"  } ['sinf' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'subs' +TgtqGQAA +Z+VifgAA 19" { "'subs' +TgtqGQAA +Z+VifgAA 19 +W1CIaGg8" ("inferior") } ['subs' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'sups' +TgpqGQAA +Z+VifgAA 20" { "'sups' +TgpqGQAA +Z+VifgAA 20 +W1CIaGg8" ("superior") } ['sups' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'twid' +eyxOCVvsXqYA +Z+VifgAA 21" { "'twid' +eyxOCVvsXqYA +Z+VifgAA 21 +W1CIaGg8"  } ['twid' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'vert' Vertical Alternates +Z+VifgAA 22" { "'vert' Vertical Alternates +Z+VifgAA 22 +W1CIaGg8"  } ['vert' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'vkna' +V4J29FBHVA1T5pgFkHhkxwAA +Z+VifgAA 23" { "'vkna' +V4J29FBHVA1T5pgFkHhkxwAA +Z+VifgAA 23 +W1CIaGg8"  } ['vkna' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'zero' +ZwllnH3adoSW9gAA +Z+VifgAA 24" { "'zero' +ZwllnH3adoSW9gAA +Z+VifgAA 24 +W1CIaGg8"  } ['zero' ('DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "'ordn' +Xo9leAAA +Z+VifgAA 25" { "'ordn' +Xo9leAAA +Z+VifgAA 25 +TgpOC2WHdoQA 0"  "'ordn' +Xo9leAAA +Z+VifgAA 25 +TgpOC2WHdoQA 1"  } ['ordn' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'ordn' +Xo9leAAA +Z+VifgAA 26" { "'ordn' +Xo9leAAA +Z+VifgAA 26 +W1CIaGg8"  } ['ordn' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'salt' +ZYea1HaEU+aYBZB4ZMcA +Z+VifgAA 27" { "'salt' +ZYea1HaEU+aYBZB4ZMcA +Z+VifgAA 27 +W1CIaGg8"  } ['salt' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "+Va5OAGb/TuMA +Z+VifgAA 28" { "+Va5OAGb/TuMA +Z+VifgAA 28 +W1CIaGg8"  } []
+Lookup: 257 0 0 "'halt' +U+aYBZB4ZMdTSlvs +Z+VifgAA 0" { "'halt' +U+aYBZB4ZMdTSlvs +Z+VifgAA 0 +ZbxUBFtXVxaMx2WZ 0"  "'halt' +U+aYBZB4ZMdTSlvs +Z+VifgAA 0 +ZbxUBFtXVxaMx2WZ 1"  } ['halt' ('DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "'palt' +a9RPi1PmmAWQeGTHW1doRgAA +Z+VifgAA 1" { "'palt' +a9RPi1PmmAWQeGTHW1doRgAA +Z+VifgAA 1 +W1CIaGg8"  } ['palt' ('DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "'vhal' +U+aYBZB4ZMdXgnb0U0pbV2hG +Z+VifgAA 2" { "'vhal' +U+aYBZB4ZMdXgnb0U0pbV2hG +Z+VifgAA 2 +W1CIaGg8"  } ['vhal' ('DFLT' <'dflt' > ) ]
+Lookup: 257 0 0 "'vpal' +a9RPi06kZv9Xgnb0W1doRgAA +Z+VifgAA 3" { "'vpal' +a9RPi06kZv9Xgnb0W1doRgAA +Z+VifgAA 3 +W1CIaGg8"  } ['vpal' ('DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "'vkrn' +V4J29FtXjd1froq/ +Z+VifgAA 4" { "'vkrn' +V4J29FtXjd1froq/ +Z+VifgAA 4 +W1CIaGg8"  } ['vkrn' ('DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 5" { "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 5 +ZbxUBFtXVxaMx2WZ 0"  "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 5 +W1eN3V+uir+YXlIl 1"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 6" { "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 6 +ZbxUBFtXVxaMx2WZ 0"  "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 6 +W1eN3V+uir+YXlIl 1"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 7" { "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 7 +W1CIaGg8"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "'vkrn' +V4J29FtXjd1froq/ +Z+VifgAA 8" { "'vkrn' +V4J29FtXjd1froq/ +Z+VifgAA 8 +W1CIaGg8"  } ['vkrn' ('DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' +ahmKGFuaT00A +Z+VifgAA 9" { "'mark' +ahmKGFuaT00A +Z+VifgAA 9 +W1CIaGg8"  } ['mark' ('DFLT' <'dflt' > ) ]
+Lookup: 262 16 0 "'mkmk' +ahmKGFIwahmKGAAA +Z+VifgAA 10" { "'mkmk' +ahmKGFIwahmKGAAA +Z+VifgAA 10 +W1CIaGg8"  } ['mkmk' ('DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
+MarkAttachSets: 1
+"MarkSet-0" 75 uni0308 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni0304 uni030D
+DEI: 91125
+KernClass2: 4+ 4 "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 5 +W1eN3V+uir+YXlIl 1"
+ 9 braceleft
+ 11 bracketleft
+ 9 parenleft
+ 12 quotedblleft
+ 106 I uni0049030B uni0049030D I_ring Iacute Ibreve uni01CF Icircumflex Idieresis Igrave Imacron uni0197 Itilde
+ 134 i dotlessi i_ring iacute ibreve uni01D0 icircumflex idieresis igrave imacron uni0268 itilde i_verticallineabovecomb i_hungarumlautcomb
+ 97 A uni0041030B uni0041030D Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aring Atilde
+ 0 {} 20 {} 20 {} 0 {} 0 {} 20 {} 20 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 20 {} 20 {} -20 {}
+KernClass2: 19+ 22 "'kern' +bDRec1tXjd1froq/ +Z+VifgAA 6 +W1eN3V+uir+YXlIl 1"
+ 97 A uni0041030B uni0041030D Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aring Atilde
+ 106 I uni0049030B uni0049030D I_ring Iacute Ibreve uni01CF Icircumflex Idieresis Igrave Imacron uni0197 Itilde
+ 238 O uni004F030D O_ring Oacute Obreve uni01D1 Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OO-poj OO_gravecomb-poj OO_acutecomb-poj OO_uni030B-poj OO_uni0302-poj OO_uni030C-poj OO_uni0306-poj OO_uni0304-poj OO_uni030D-poj
+ 107 U uni0055030D Uacute uni0244 Ubreve uni01D3 Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uring Utilde
+ 98 e uni0065030B uni0065030D e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni1EBD
+ 134 i dotlessi i_ring iacute ibreve uni01D0 icircumflex idieresis igrave imacron uni0268 itilde i_verticallineabovecomb i_hungarumlautcomb
+ 1 F
+ 1 K
+ 1 P
+ 1 Q
+ 1 T
+ 1 V
+ 1 W
+ 1 Y
+ 6 Yacute
+ 9 Ydieresis
+ 1 Z
+ 6 Zcaron
+ 7 uni02BB
+ 7 uni1D3A
+ 1 T
+ 1 V
+ 1 Y
+ 6 Yacute
+ 9 Ydieresis
+ 13 quotedblright
+ 7 uni02BC
+ 10 braceright
+ 12 bracketright
+ 10 parenright
+ 5 comma
+ 6 period
+ 1 j
+ 97 A uni0041030B uni0041030D Aacute Abreve uni01CD Acircumflex Adieresis Agrave Amacron Aring Atilde
+ 97 a uni0061030B uni0061030D aacute abreve uni01CE acircumflex adieresis agrave amacron aring atilde
+ 98 e uni0065030B uni0065030D e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni1EBD
+ 239 o uni006F030D o_ring oacute uni0275 obreve uni01D2 ocircumflex odieresis ograve ohungarumlaut omacron otilde oo-poj oo_gravecomb-poj oo_acutecomb-poj oo_uni030B-poj oo_uni0302-poj oo_uni030C-poj oo_uni0306-poj oo_uni0304-poj oo_uni030D-poj
+ 101 u uni0075030D uacute uni0289 ubreve uni01D4 ucircumflex udieresis ugrave uhungarumlaut umacron utilde
+ 134 i dotlessi i_ring iacute ibreve uni01D0 icircumflex idieresis igrave imacron uni0268 itilde i_verticallineabovecomb i_hungarumlautcomb
+ 238 O uni004F030D O_ring Oacute Obreve uni01D1 Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OO-poj OO_gravecomb-poj OO_acutecomb-poj OO_uni030B-poj OO_uni0302-poj OO_uni030C-poj OO_uni0306-poj OO_uni0304-poj OO_uni030D-poj
+ 0 {} -82 {} -20 {} -20 {} -31 {} -31 {} -31 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 20 {} 20 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 20 {} 20 {} 20 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} -61 {} -61 {} -61 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -41 {} -41 {} -41 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -41 {} -41 {} -41 {} -20 {} 41 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} -31 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} -72 {} -72 {} -72 {} -31 {} 41 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} -72 {} -72 {} -72 {} -31 {} 41 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} -72 {} -72 {} -72 {} -31 {} 41 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {}
+ChainSub2: coverage "'ordn' +Xo9leAAA +Z+VifgAA 25 +TgpOC2WHdoQA 1" 0 0 0 1
+ 1 1 0
+  Coverage: 3 O o
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "+Va5OAGb/TuMA +Z+VifgAA 28"
+EndFPST
+ChainSub2: coverage "'ordn' +Xo9leAAA +Z+VifgAA 25 +TgpOC2WHdoQA 0" 0 0 0 1
+ 1 1 0
+  Coverage: 3 A a
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "+Va5OAGb/TuMA +Z+VifgAA 28"
+EndFPST
+ShortTable: maxp 16
+  1
+  0
+  15227
+  647
+  28
+  0
+  0
+  1
+  2
+  30
+  6
+  0
+  100
+  0
+  0
+  0
+EndShort
+LangName: 1028 "" "+a80A--+gquDfQAA" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+a80A--+gquDfQAA" "" "" "+YhFhG4Krg33/DIKrg31hG2IRMAIAClNXU7t9k04JVwv/DGdxT4aQTk6UblYwAgAKcSGN7/8MVLGOfW6qkE5dujACAApY+YyzU8GAhk8Nlnhn0mNMc5Zi/jACAAoA-It kiam j+ASsA k+APIA-o, bong l+AOIA--+AOEA kiam s+AOkA kh+APIA-o."
+LangName: 1033 "" "" "" "" "" "Version 0.920" "" "" "zi-hi.com / Fontworks Inc." "But Ko / Fontworks Inc." "" "https://github.com/ButTaiwan/" "https://github.com/ButTaiwan/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Iansui 0.92" "Regular"
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 27552 24 10
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "+kyie3gAA--0" "'mark' +ahmKGFuaT00A +Z+VifgAA 9 +W1CIaGg8" "+kyie3gAA--1" "'mkmk' +ahmKGFIwahmKGAAA +Z+VifgAA 10 +W1CIaGg8"
+BeginChars: 1117693 1
+
+StartChar: uni6BCD
+Encoding: 27597 27597 0
+AltUni2: 002e9f.ffffffff.0
+Width: 1000
+VWidth: 1000
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+283 502.5 m 132,-1,1
+ 296 513 296 513 301 513 c 4,2,3
+ 310 513 310 513 343 477.5 c 132,-1,4
+ 376 442 376 442 405.5 401.5 c 132,-1,5
+ 435 361 435 361 435 351 c 4,6,7
+ 435 343 435 343 419.5 330.5 c 132,-1,8
+ 404 318 404 318 392 318 c 4,9,10
+ 383 318 383 318 374 334 c 4,11,12
+ 334 405 334 405 277 468 c 4,13,14
+ 270 477 270 477 270 482 c 4,15,0
+ 270 492 270 492 283 502.5 c 132,-1,1
+582 351 m 4,16,17
+ 668 463 668 463 675 522 c 4,18,19
+ 676 531 676 531 678 535.5 c 132,-1,20
+ 680 540 680 540 686 540 c 4,21,22
+ 691 540 691 540 705.5 531 c 132,-1,23
+ 720 522 720 522 731.5 510.5 c 132,-1,24
+ 743 499 743 499 743 489 c 4,25,26
+ 743 477 743 477 708 434 c 132,-1,27
+ 673 391 673 391 633 354.5 c 132,-1,28
+ 593 318 593 318 577 318 c 4,29,30
+ 569 318 569 318 569 325 c 4,31,32
+ 569 335 569 335 582 351 c 4,16,17
+505 -114 m 4,33,34
+ 490 -114 490 -114 472 -103.5 c 132,-1,35
+ 454 -93 454 -93 454 -73 c 6,36,-1
+ 455 -66 l 6,37,38
+ 460 -34 460 -34 460 -4 c 6,39,-1
+ 461 254 l 5,40,-1
+ 243 245 l 5,41,-1
+ 246 215 l 5,42,-1
+ 246 212 l 6,43,44
+ 246 193 246 193 227 193 c 4,45,46
+ 211 193 211 193 194 203 c 132,-1,47
+ 177 213 177 213 177 232 c 6,48,-1
+ 177 240 l 6,49,50
+ 179 262 179 262 179 269 c 4,51,52
+ 179 279 179 279 177 297 c 6,53,-1
+ 159 515 l 6,54,55
+ 156 548 156 548 142 571 c 4,56,57
+ 134 584 134 584 134 590 c 4,58,59
+ 134 598 134 598 145 598 c 4,60,61
+ 163 598 163 598 215 577 c 5,62,-1
+ 463 592 l 5,63,-1
+ 464 764 l 6,64,65
+ 464 787 464 787 453 807 c 4,66,67
+ 449 814 449 814 449 820 c 4,68,69
+ 449 828 449 828 462 828 c 4,70,71
+ 468 828 468 828 484.5 824.5 c 132,-1,72
+ 501 821 501 821 515.5 812 c 132,-1,73
+ 530 803 530 803 530 788 c 6,74,-1
+ 529 596 l 5,75,-1
+ 799 612 l 6,76,77
+ 808 613 808 613 821 613 c 4,78,79
+ 839 613 839 613 850 605 c 132,-1,80
+ 861 597 861 597 865.5 587.5 c 132,-1,81
+ 870 578 870 578 870 573 c 4,82,83
+ 870 567 870 567 865.5 558 c 132,-1,84
+ 861 549 861 549 861 545 c 6,85,-1
+ 833 329 l 5,86,87
+ 861 297 861 297 861 284 c 4,88,89
+ 861 276 861 276 853 273.5 c 132,-1,90
+ 845 271 845 271 827 270 c 6,91,-1
+ 527 257 l 5,92,-1
+ 525 -89 l 6,93,94
+ 525 -114 525 -114 505 -114 c 4,33,34
+239 302 m 5,95,-1
+ 462 312 l 5,96,-1
+ 463 533 l 5,97,-1
+ 220 519 l 5,98,-1
+ 239 302 l 5,95,-1
+771 326 m 5,99,-1
+ 795 552 l 5,100,-1
+ 529 537 l 5,101,-1
+ 527 315 l 5,102,-1
+ 771 326 l 5,99,-1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

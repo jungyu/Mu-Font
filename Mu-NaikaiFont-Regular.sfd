@@ -1,0 +1,1245 @@
+SplineFontDB: 3.2
+FontName: Mu-NaikaiFont-Regular
+FullName: Mu-NaikaiFont Regular
+FamilyName: Mu-NaikaiFont
+Weight: Regular
+Copyright: Nozomi Seto
+Version: 1.67
+ItalicAngle: 0
+UnderlinePosition: -240
+UnderlineWidth: 96
+Ascent: 1760
+Descent: 288
+InvalidEm: 0
+sfntRevision: 0x0008e666
+LayerCount: 2
+Layer: 0 1 "+gMxmbwAA" 1
+Layer: 1 1 "+Uk1mbwAA" 0
+HasVMetrics: 1
+XUID: [1021 423 1460472754 6784405]
+StyleMap: 0x0040
+FSType: 8
+OS2Version: 1
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: -2082844800
+ModificationTime: 1652174259
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 6 0 0 0 0 0 0 0
+OS2TypoAscent: 1760
+OS2TypoAOffset: 0
+OS2TypoDescent: -288
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1760
+OS2WinAOffset: 0
+OS2WinDescent: 288
+OS2WinDOffset: 0
+HheadAscent: 1760
+HheadAOffset: 0
+HheadDescent: -288
+HheadDOffset: 0
+OS2SubXSize: 1024
+OS2SubYSize: 1024
+OS2SubXOff: 0
+OS2SubYOff: 736
+OS2SupXSize: 1024
+OS2SupYSize: 1024
+OS2SupXOff: 0
+OS2SupYOff: 880
+OS2StrikeYSize: 104
+OS2StrikeYPos: 528
+OS2Vendor: 'Take'
+OS2CodePages: 603f00ff.ffff0000
+OS2UnicodeRanges: ffffaeff.e9ffffff.0000003f.00000000
+MarkAttachClasses: 1
+DEI: 91125
+TtTable: prep
+PUSHW_1
+ 511
+SCANCTRL
+PUSHB_1
+ 1
+SCANTYPE
+PUSHB_2
+ 1
+ 129
+RCVT
+WCVTP
+PUSHB_2
+ 2
+ 130
+RCVT
+WCVTP
+PUSHB_2
+ 3
+ 131
+RCVT
+WCVTP
+PUSHB_2
+ 4
+ 132
+RCVT
+WCVTP
+PUSHB_2
+ 5
+ 133
+RCVT
+WCVTP
+PUSHB_2
+ 6
+ 134
+RCVT
+WCVTP
+PUSHB_2
+ 7
+ 135
+RCVT
+WCVTP
+PUSHB_2
+ 8
+ 136
+RCVT
+WCVTP
+PUSHB_2
+ 9
+ 137
+RCVT
+WCVTP
+PUSHB_2
+ 10
+ 138
+RCVT
+WCVTP
+PUSHB_2
+ 11
+ 139
+RCVT
+WCVTP
+PUSHB_2
+ 12
+ 140
+RCVT
+WCVTP
+PUSHB_2
+ 13
+ 141
+RCVT
+WCVTP
+PUSHB_2
+ 14
+ 142
+RCVT
+WCVTP
+PUSHB_2
+ 15
+ 143
+RCVT
+WCVTP
+PUSHB_2
+ 16
+ 144
+RCVT
+WCVTP
+PUSHB_2
+ 17
+ 145
+RCVT
+WCVTP
+PUSHB_2
+ 18
+ 146
+RCVT
+WCVTP
+PUSHB_2
+ 19
+ 147
+RCVT
+WCVTP
+PUSHB_2
+ 20
+ 148
+RCVT
+WCVTP
+PUSHB_2
+ 21
+ 149
+RCVT
+WCVTP
+PUSHB_2
+ 22
+ 150
+RCVT
+WCVTP
+PUSHB_2
+ 23
+ 151
+RCVT
+WCVTP
+PUSHB_2
+ 24
+ 152
+RCVT
+WCVTP
+PUSHB_2
+ 25
+ 153
+RCVT
+WCVTP
+PUSHB_2
+ 26
+ 154
+RCVT
+WCVTP
+PUSHB_2
+ 27
+ 155
+RCVT
+WCVTP
+PUSHB_2
+ 28
+ 156
+RCVT
+WCVTP
+PUSHB_2
+ 29
+ 157
+RCVT
+WCVTP
+PUSHB_2
+ 30
+ 158
+RCVT
+WCVTP
+PUSHB_2
+ 31
+ 159
+RCVT
+WCVTP
+PUSHB_2
+ 32
+ 160
+RCVT
+WCVTP
+PUSHB_2
+ 33
+ 161
+RCVT
+WCVTP
+PUSHB_2
+ 34
+ 162
+RCVT
+WCVTP
+PUSHB_2
+ 35
+ 163
+RCVT
+WCVTP
+PUSHB_2
+ 36
+ 164
+RCVT
+WCVTP
+PUSHB_2
+ 37
+ 165
+RCVT
+WCVTP
+PUSHB_2
+ 38
+ 166
+RCVT
+WCVTP
+PUSHB_2
+ 39
+ 167
+RCVT
+WCVTP
+PUSHB_2
+ 40
+ 168
+RCVT
+WCVTP
+PUSHB_2
+ 41
+ 169
+RCVT
+WCVTP
+PUSHB_2
+ 42
+ 170
+RCVT
+WCVTP
+PUSHB_2
+ 43
+ 171
+RCVT
+WCVTP
+PUSHB_2
+ 44
+ 172
+RCVT
+WCVTP
+PUSHB_2
+ 45
+ 173
+RCVT
+WCVTP
+PUSHB_2
+ 46
+ 174
+RCVT
+WCVTP
+PUSHB_2
+ 47
+ 175
+RCVT
+WCVTP
+PUSHB_2
+ 48
+ 176
+RCVT
+WCVTP
+PUSHB_2
+ 49
+ 177
+RCVT
+WCVTP
+PUSHB_2
+ 50
+ 178
+RCVT
+WCVTP
+PUSHB_2
+ 51
+ 179
+RCVT
+WCVTP
+PUSHB_2
+ 52
+ 180
+RCVT
+WCVTP
+PUSHB_2
+ 53
+ 181
+RCVT
+WCVTP
+PUSHB_2
+ 54
+ 182
+RCVT
+WCVTP
+PUSHB_2
+ 55
+ 183
+RCVT
+WCVTP
+PUSHB_2
+ 56
+ 184
+RCVT
+WCVTP
+PUSHB_2
+ 57
+ 185
+RCVT
+WCVTP
+PUSHB_2
+ 58
+ 186
+RCVT
+WCVTP
+PUSHB_2
+ 59
+ 187
+RCVT
+WCVTP
+PUSHB_2
+ 60
+ 188
+RCVT
+WCVTP
+PUSHB_2
+ 61
+ 189
+RCVT
+WCVTP
+PUSHB_2
+ 62
+ 190
+RCVT
+WCVTP
+PUSHB_2
+ 63
+ 191
+RCVT
+WCVTP
+PUSHB_2
+ 64
+ 192
+RCVT
+WCVTP
+PUSHB_2
+ 65
+ 193
+RCVT
+WCVTP
+PUSHB_2
+ 66
+ 194
+RCVT
+WCVTP
+PUSHB_2
+ 67
+ 195
+RCVT
+WCVTP
+PUSHB_2
+ 68
+ 196
+RCVT
+WCVTP
+PUSHB_2
+ 69
+ 197
+RCVT
+WCVTP
+PUSHB_2
+ 70
+ 198
+RCVT
+WCVTP
+PUSHB_2
+ 71
+ 199
+RCVT
+WCVTP
+PUSHB_2
+ 72
+ 200
+RCVT
+WCVTP
+PUSHB_2
+ 73
+ 201
+RCVT
+WCVTP
+PUSHB_2
+ 74
+ 202
+RCVT
+WCVTP
+PUSHB_2
+ 75
+ 203
+RCVT
+WCVTP
+PUSHB_2
+ 76
+ 204
+RCVT
+WCVTP
+PUSHB_2
+ 77
+ 205
+RCVT
+WCVTP
+PUSHB_2
+ 78
+ 206
+RCVT
+WCVTP
+PUSHB_2
+ 79
+ 207
+RCVT
+WCVTP
+PUSHB_2
+ 80
+ 208
+RCVT
+WCVTP
+PUSHB_2
+ 81
+ 209
+RCVT
+WCVTP
+PUSHB_2
+ 82
+ 210
+RCVT
+WCVTP
+PUSHB_2
+ 83
+ 211
+RCVT
+WCVTP
+PUSHB_2
+ 84
+ 212
+RCVT
+WCVTP
+PUSHB_2
+ 85
+ 213
+RCVT
+WCVTP
+PUSHB_2
+ 86
+ 214
+RCVT
+WCVTP
+PUSHB_2
+ 87
+ 215
+RCVT
+WCVTP
+PUSHB_2
+ 88
+ 216
+RCVT
+WCVTP
+PUSHB_2
+ 89
+ 217
+RCVT
+WCVTP
+PUSHB_2
+ 90
+ 218
+RCVT
+WCVTP
+PUSHB_2
+ 91
+ 219
+RCVT
+WCVTP
+PUSHB_2
+ 92
+ 220
+RCVT
+WCVTP
+PUSHB_2
+ 93
+ 221
+RCVT
+WCVTP
+PUSHB_2
+ 94
+ 222
+RCVT
+WCVTP
+PUSHB_2
+ 95
+ 223
+RCVT
+WCVTP
+PUSHB_2
+ 96
+ 224
+RCVT
+WCVTP
+PUSHB_2
+ 97
+ 225
+RCVT
+WCVTP
+PUSHB_2
+ 98
+ 226
+RCVT
+WCVTP
+PUSHB_2
+ 99
+ 227
+RCVT
+WCVTP
+PUSHB_2
+ 100
+ 228
+RCVT
+WCVTP
+PUSHB_2
+ 101
+ 229
+RCVT
+WCVTP
+PUSHB_2
+ 102
+ 230
+RCVT
+WCVTP
+PUSHB_2
+ 103
+ 231
+RCVT
+WCVTP
+PUSHB_2
+ 104
+ 232
+RCVT
+WCVTP
+PUSHB_2
+ 105
+ 233
+RCVT
+WCVTP
+PUSHB_2
+ 106
+ 234
+RCVT
+WCVTP
+PUSHB_2
+ 107
+ 235
+RCVT
+WCVTP
+PUSHB_2
+ 108
+ 236
+RCVT
+WCVTP
+PUSHB_2
+ 109
+ 237
+RCVT
+WCVTP
+PUSHB_2
+ 110
+ 238
+RCVT
+WCVTP
+PUSHB_2
+ 111
+ 239
+RCVT
+WCVTP
+PUSHB_2
+ 112
+ 240
+RCVT
+WCVTP
+PUSHB_2
+ 113
+ 241
+RCVT
+WCVTP
+PUSHB_2
+ 114
+ 242
+RCVT
+WCVTP
+PUSHB_2
+ 115
+ 243
+RCVT
+WCVTP
+PUSHB_2
+ 116
+ 244
+RCVT
+WCVTP
+PUSHB_2
+ 117
+ 245
+RCVT
+WCVTP
+PUSHB_2
+ 118
+ 246
+RCVT
+WCVTP
+PUSHB_2
+ 119
+ 247
+RCVT
+WCVTP
+PUSHB_2
+ 120
+ 248
+RCVT
+WCVTP
+PUSHB_2
+ 121
+ 249
+RCVT
+WCVTP
+PUSHB_2
+ 122
+ 250
+RCVT
+WCVTP
+PUSHB_2
+ 123
+ 251
+RCVT
+WCVTP
+PUSHB_2
+ 124
+ 252
+RCVT
+WCVTP
+PUSHB_2
+ 125
+ 253
+RCVT
+WCVTP
+PUSHB_2
+ 126
+ 254
+RCVT
+WCVTP
+PUSHB_2
+ 127
+ 255
+RCVT
+WCVTP
+EndTTInstrs
+TtTable: fpgm
+PUSHB_1
+ 0
+FDEF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHB_1
+ 1
+FDEF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ENDF
+PUSHB_1
+ 2
+FDEF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 3
+FDEF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 4
+FDEF
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHB_1
+ 5
+FDEF
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ENDF
+PUSHB_1
+ 6
+FDEF
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 7
+FDEF
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 8
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHB_1
+ 9
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ENDF
+PUSHB_1
+ 10
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 11
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 12
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHB_1
+ 13
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ENDF
+PUSHB_1
+ 14
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 15
+FDEF
+MDAP[rnd]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+ALIGNRP
+ALIGNRP
+ENDF
+PUSHB_1
+ 16
+FDEF
+ALIGNRP
+ENDF
+PUSHB_1
+ 17
+FDEF
+MDAP[rnd]
+PUSHB_1
+ 16
+LOOPCALL
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHB_1
+ 18
+FDEF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 16
+LOOPCALL
+ENDF
+PUSHB_1
+ 19
+FDEF
+MDAP[rnd]
+PUSHB_1
+ 16
+LOOPCALL
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 16
+LOOPCALL
+ENDF
+EndTTInstrs
+ShortTable: cvt  256
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10
+  11
+  12
+  13
+  14
+  15
+  16
+  17
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+  27
+  28
+  29
+  30
+  31
+  32
+  33
+  34
+  35
+  36
+  37
+  38
+  39
+  40
+  41
+  42
+  43
+  44
+  45
+  46
+  47
+  48
+  49
+  50
+  51
+  52
+  53
+  54
+  55
+  56
+  57
+  58
+  59
+  60
+  61
+  62
+  63
+  64
+  65
+  66
+  67
+  68
+  69
+  70
+  71
+  72
+  73
+  74
+  75
+  76
+  77
+  78
+  79
+  80
+  81
+  82
+  83
+  84
+  85
+  86
+  87
+  88
+  89
+  90
+  91
+  92
+  93
+  94
+  95
+  96
+  97
+  98
+  99
+  100
+  101
+  102
+  103
+  104
+  105
+  106
+  107
+  108
+  109
+  110
+  111
+  112
+  113
+  114
+  115
+  116
+  117
+  118
+  119
+  120
+  121
+  122
+  123
+  124
+  125
+  126
+  127
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  -18118
+  995
+  39
+  0
+  0
+  1
+  0
+  0
+  20
+  0
+  6144
+  6028
+  0
+  0
+EndShort
+LangName: 1041 "+cCxiODBuMF4wfwAA" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "" "" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "Version 1.67" "" "" "" "" "" "" "" "" "" "" "+cCxiODBuMF4wfwAA"
+LangName: 3076 "+a80A--+UWdtd1tXmtQA" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "" "" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "Version 1.67" "" "" "" "" "" "" "" "" "" "" "+a80A--+UWdtd1tXmtQA"
+LangName: 5124 "+a80A--+UWdtd1tXmtQA" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "" "" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "Version 1.67" "" "" "" "" "" "" "" "" "" "" "+a80A--+UWdtd1tXmtQA"
+LangName: 1028 "+a80A--+UWdtd1tXmtQA" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "Regular" "" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "Version 1.67" "" "" "" "" "" "" "" "" "" "" "+a80A--+UWdtd1tXmtQA"
+LangName: 2052 "+a80A--+UWdtd1tXmtQA" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "" "" "+a80A--+UYVtdzDVMKkw8zDI--Regular" "Version 1.67" "" "" "" "" "" "" "" "" "" "" "+a80A--+UWdtd1tXmtQA"
+LangName: 1033 "" "" "" "" "" "Version 1.67" "" "NaikaiFont" "" "" "" "" "" "Copyright (c) 2020, Chun yu Yao (<URL|email>),+AAoA-with Reserved Font Name NaikaiFont.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+GaspTable: 2 8 2 65535 3 0
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 27552 24 10
+BeginPrivate: 0
+EndPrivate
+BeginChars: 1114713 1
+
+StartChar: uni6BCD
+Encoding: 27597 27597 0
+Width: 2048
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1327 696 m 5,0,-1
+ 1287 716 l 5,1,2
+ 1263 742 1263 742 1267 786 c 5,3,4
+ 1291 848 1291 848 1321 903 c 132,-1,5
+ 1351 958 1351 958 1377 1016 c 5,6,7
+ 1409 1044 1409 1044 1459 1036 c 5,8,-1
+ 1499 1016 l 5,9,10
+ 1527 986 1527 986 1523 942 c 5,11,12
+ 1479 856 1479 856 1452 811 c 132,-1,13
+ 1425 766 1425 766 1401 720 c 5,14,15
+ 1371 692 1371 692 1327 696 c 5,0,-1
+756 704 m 1,16,-1
+ 716 724 l 1,17,18
+ 672 804 672 804 624 882 c 1,19,20
+ 596 914 596 914 592 950 c 1,21,22
+ 596 982 596 982 616 1006 c 1,23,24
+ 644 1028 644 1028 688 1024 c 1,25,-1
+ 728 1006 l 1,26,27
+ 770 950 770 950 802 891 c 128,-1,28
+ 834 832 834 832 846 762 c 1,29,-1
+ 826 724 l 1,30,31
+ 798 700 798 700 756 704 c 1,16,-1
+1054 -160 m 1,32,-1
+ 1014 -140 l 1,33,34
+ 994 -116 994 -116 990 -84 c 2,35,-1
+ 982 482 l 1,36,-1
+ 400 478 l 2,37,38
+ 326 480 326 480 312 519 c 128,-1,39
+ 298 558 298 558 268 1174 c 0,40,41
+ 262 1234 262 1234 303 1247 c 128,-1,42
+ 344 1260 344 1260 970 1252 c 1,43,-1
+ 966 1532 l 1,44,-1
+ 986 1572 l 1,45,46
+ 1018 1596 1018 1596 1062 1592 c 1,47,-1
+ 1102 1572 l 1,48,49
+ 1122 1544 1122 1544 1126 1512 c 1,50,-1
+ 1126 1246 l 1,51,52
+ 1704 1252 1704 1252 1748 1241 c 128,-1,53
+ 1792 1230 1792 1230 1800 1162 c 1,54,-1
+ 1768 534 l 1,55,56
+ 1754 462 1754 462 1676 470 c 1,57,-1
+ 1138 482 l 1,58,-1
+ 1146 -100 l 1,59,-1
+ 1126 -140 l 1,60,61
+ 1098 -164 1098 -164 1054 -160 c 1,32,-1
+1620 634 m 1,62,-1
+ 1644 1082 l 1,63,-1
+ 1126 1090 l 1,64,-1
+ 1138 638 l 1,65,-1
+ 1620 634 l 1,62,-1
+982 638 m 1,66,-1
+ 970 1094 l 1,67,-1
+ 424 1098 l 1,68,-1
+ 460 634 l 1,69,-1
+ 982 638 l 1,66,-1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
