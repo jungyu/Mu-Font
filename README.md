@@ -5,8 +5,16 @@
 
 ## 字型改作來源：
 1.  全字庫楷書、宋體 https://data.gov.tw/dataset/5961
-2.  Justfont粉圓體 https://justfont.com/huninn/
-3.  台北黑體 https://sites.google.com/view/jtfoundry/zh-tw
+2.  教育部楷書 https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/edukai-4.0.zip
+3.  教育部隸書 https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/MoeLI-3.0.zip
+4.  教育部宋體 https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/eduSong_Unicode.zip
+5.  Justfont粉圓體 https://justfont.com/huninn/
+6.  芫荽 https://github.com/ButTaiwan/iansui
+7.  MAX內海 https://github.com/max32002/naikaifont
+8.  MAX大波浪圓體 https://github.com/max32002/pop-gothic
+10.  MAX獅尾圓體 https://github.com/max32002/swei-gothic
+11.  MAX獅尾黑體 https://github.com/max32002/swei-sans
+12.  MAX獅尾四季春 https://github.com/max32002/swei-spring
 
 上述皆為開源字型，視大眾需求再陸續新增刪除。
 
